@@ -1,4 +1,4 @@
-An app to search the Yelp API for business in the given city. Live version is hosted [here](http://ravenouswithyelp.surge.sh/)
+An app to search the Yelp API for businesses in a given city. Live version is hosted [here](http://ravenouswithyelp.surge.sh/)
 
 ## Future work
 I will continue to iterate on the project to add the following functionality
