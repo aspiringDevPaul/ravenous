@@ -1,6 +1,6 @@
 An app to search the Yelp API for business in the given city. Live version is hosted [here](http://ravenouswithyelp.surge.sh/)
 
-###To do###
+## Future work
 I will continue to iterate on the project to add the following functionality
 - Feedback to the user to show that businesses are being retrieved (a loader)
 - Make addresses clickable and have them open the address in Google Maps in a new tab
